@@ -6,3 +6,6 @@ First of all install TidalAPI using "pip install tidalapi"
 
 # Lyrics Genius
 Install lyricsgenius using "pip install lyricsgenius"
+
+# Discord
+Install discord.py using "pip install discord.py"
